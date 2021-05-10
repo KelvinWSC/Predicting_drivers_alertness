@@ -21,6 +21,7 @@ We then drop the useless (contains value '0' only) variables and drop those with
 ![image](https://user-images.githubusercontent.com/80243823/117622110-de769b80-b1a4-11eb-92b2-ff048bf719a1.png)
 
 With over 20 variables at hand, we apply 'Principal Component Analysis' (PCA) in hope to reduce the complexity of the model. Our aim is to find enough variables to explain over 95% of the variance. We have found that having 20 components would be enough.
+
 ![image](https://user-images.githubusercontent.com/80243823/117622786-9c018e80-b1a5-11eb-9c13-ad8f0d22551b.png)
 
 

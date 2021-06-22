@@ -80,7 +80,7 @@ To measure the performance of different models under different conditions, we pl
 To sum up using 1 number, we calculate the 'Area Under Curve' (AUC) of the ROC curve. The higher the better.
 ![image](https://user-images.githubusercontent.com/80243823/117634946-fef92280-b1b1-11eb-98f4-6641495ea25e.png)
 
-
+aa
 ## **Conclusion**
 Random Forest gives us the best overall performance, with 94% accuracy to predict the driver not being alert (under threshold = 0.5) and 78% AUC in the testing set.
 However, the degradation of performance from training dataset to testing dataset suggests that the model is still overfitting, so there is still room for improvement. Instead of eliminating useless variables one by one, next approach is to add useful variables one by one.

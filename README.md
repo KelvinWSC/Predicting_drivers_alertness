@@ -1,6 +1,5 @@
 # Predicting driver's alertness using machine learning algorithm
 
-aa
 ## **The Goal**
 
 The goal is to create a model to classify whether the driver is being alert or not while driving, using the data acquired from multiple controlled experiments by Ford.

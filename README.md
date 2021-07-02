@@ -23,6 +23,7 @@ With over 20 variables at hand, we apply 'Principal Component Analysis' (PCA) in
 
 ![image](https://user-images.githubusercontent.com/80243823/117622786-9c018e80-b1a5-11eb-9c13-ad8f0d22551b.png)
 
+After extensive testing, we find that the improvement is not significant. The testing results can be found in 'Performance Comparison' section, which will be shown later.
 
 ## **Models evaluation and comparison**
 We evaluate 4 possible models, Logistic Regression, KNN, Random Forest and XGBoost
@@ -71,7 +72,7 @@ We apply the same training and tuning procedures as Random Forest to XGBosst
 ![image](https://user-images.githubusercontent.com/80243823/117631758-23073480-b1af-11eb-8122-1954aaf06ca1.png)
 ![image](https://user-images.githubusercontent.com/80243823/117631865-3f0ad600-b1af-11eb-952f-5d2496786f38.png)
 
-**Performance comparison**
+**Performance Comparison**
 
 To measure the performance of different models under different conditions, we plot the 'Receiver Operating Characteristic Curve' (ROC curve). We want to select the model which has higher true positive rate and lower false positive rate under different threshold (upper left corner).
 ![image](https://user-images.githubusercontent.com/80243823/117632093-7c6f6380-b1af-11eb-8208-bc7cfeb7e690.png)

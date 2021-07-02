@@ -23,7 +23,7 @@ With over 20 variables at hand, we apply 'Principal Component Analysis' (PCA) in
 
 ![image](https://user-images.githubusercontent.com/80243823/117622786-9c018e80-b1a5-11eb-9c13-ad8f0d22551b.png)
 
-After extensive testing, we find that the improvement is not significant. The testing results can be found in 'Performance Comparison' section, which will be shown later.
+After extensive testing, we find that the improvement of applying PCA is not significant for this dataset. The testing results can be found in 'Performance Comparison' section, which will be shown later.
 
 ## **Models evaluation and comparison**
 We evaluate 4 possible models, Logistic Regression, KNN, Random Forest and XGBoost
